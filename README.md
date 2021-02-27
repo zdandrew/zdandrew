@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student at the University of Pennylvania studying computer science and economics as a Benjamin Franklin Scholar. I'm involved with Penn Creative Labs, Students Federal Credit Union, and Penn Aerospace where I work on and learn about web development.
+I am a student at the University of Pennylvania studying computer science and economics as a Benjamin Franklin Scholar. I'm involved with Penn Creative Labs, Students Federal Credit Union, and Penn Aerospace where I work on and learn about technologies such as web development and data science.
 <!--
 **zdandrew/zdandrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
